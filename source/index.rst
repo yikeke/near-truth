@@ -6,13 +6,15 @@
 Welcome to near-truth's documentation!
 ======================================
 
-
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
+   :glob:
+   :caption: 全部章节目录
 
-   hello
-
+   关于本项目
+   What 篇/index
+   Why 篇/index
+   How 篇/index
 
 Indices and tables
 ==================
